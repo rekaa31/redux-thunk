@@ -1,0 +1,19 @@
+.users {
+  margin-top: 20px;
+  border: 1px solid yellowgreen;
+  display: flex;
+}
+
+.userLink {
+  margin-bottom: 10px;
+}
+
+.usersList {
+  border: 1px solid red;
+  margin-right: 20px;
+}
+
+.userDetails {
+  border: 1px solid blue;
+  flex: 1;
+}

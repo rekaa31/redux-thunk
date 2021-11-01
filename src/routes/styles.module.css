@@ -1,0 +1,9 @@
+.appRouter {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.routeContent {
+  margin-top: 20px;
+  padding: 0px 10px;
+}

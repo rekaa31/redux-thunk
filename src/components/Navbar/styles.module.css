@@ -1,0 +1,16 @@
+.nav {
+  background-color: #f2f2f2;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.nav > a {
+  margin-right: 20px;
+  text-decoration: underline;
+  color: #333;
+}
+
+.nav > a.active {
+  color: rebeccapurple;
+  font-weight: bold;
+}
